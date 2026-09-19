@@ -1,2 +1,2 @@
 # Portfolio-Website
-This Repository contains my Professional Portfolio Website.
+This repository contains my personal portfolio website, designed to showcase my skills, projects, education, achievements, and journey as a Computer Science student. The website is built with a clean, modern, and responsive design using HTML and CSS, with a focus on simplicity, accessibility, and user experience. It serves as a central place to learn more about me, explore the projects I have worked on, and see the technologies I am currently learning. I’ll continue updating this portfolio as I gain new skills, build more projects, and grow throughout my journey in software development and technology.
